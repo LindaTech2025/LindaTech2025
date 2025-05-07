@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**LindaTech2025/LindaTech2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#  🌺💻🌺 About Me:
+Hi there I'm Linda, a budding Data Analyst based in South West London.<br><br>Coming from a legal background with a degree in Politics and International relations and a Masters in European Politics, Tech is a brand-new journey for me. One that I find exciting, challenging and extremely inspiring. <br><br>I am always blown away by the informative insights, astounding visuals  and powerful analytics that continuously flow out of the tech space and I'm keen to be a part of it. My favorite tools to use are  ‘EXCEL’, ‘POWER BI’ and ‘SQL’. I also enjoy being creative with ‘TABLEAU’. <br><br>I recently completed a Boot Camp with 'JUST IT' where I was able to enhance my knowledge of these tools and I am currently working on a number of projects both personal and professional to enhance my proficiency in these applications further.<br><br>My aim is to combine my legal expertise and political studies together with these powerful technologies to make a meaningful contribution to the realm of data analytics.<br> <br>Please feel free to follow me on my coding journey. I am also open to collaboration.<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lindaclairetech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lindaclairetech@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LINDATECH2025&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LINDATECH2025&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LINDATECH2025&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LINDATECH2025&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
